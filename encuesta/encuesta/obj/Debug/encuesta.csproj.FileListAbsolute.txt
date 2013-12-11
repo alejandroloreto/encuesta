@@ -1,0 +1,8 @@
+C:\Users\CANO\Documents\SharpDevelop Projects\encuesta\encuesta\bin\Debug\encuesta.exe
+C:\Users\CANO\Documents\SharpDevelop Projects\encuesta\encuesta\bin\Debug\encuesta.pdb
+C:\Users\CANO\Documents\SharpDevelop Projects\encuesta\encuesta\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\CANO\Documents\SharpDevelop Projects\encuesta\encuesta\obj\Debug\encuesta.MainForm.resources
+C:\Users\CANO\Documents\SharpDevelop Projects\encuesta\encuesta\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\CANO\Documents\SharpDevelop Projects\encuesta\encuesta\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\CANO\Documents\SharpDevelop Projects\encuesta\encuesta\obj\Debug\encuesta.exe
+C:\Users\CANO\Documents\SharpDevelop Projects\encuesta\encuesta\obj\Debug\encuesta.pdb
